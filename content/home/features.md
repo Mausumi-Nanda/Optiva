@@ -9,6 +9,7 @@ feature:
     icon_pack: fas
     name: Project Documentation
     description: For users
+    feature:
       - icon: boxes
         icon_pack: fas
         name: External User
