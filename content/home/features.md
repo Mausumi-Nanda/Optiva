@@ -10,11 +10,13 @@ feature:
     name: Project Documentation
     description: For users
     - icon: book-user
-      icon_pack: fas
+      icon_pack: far
       name: External User
+      description: For External Users
     - icon: book-reader
-      icon_pack: fas
+      icon_pack: far
       name: Internal User
+      description: For Internal Users
   - icon: question
     icon_pack: fas
     name: Knowledge Base
