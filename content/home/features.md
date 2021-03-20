@@ -9,6 +9,12 @@ feature:
     icon_pack: fas
     name: Project Documentation
     description: For users
+    - icon: book-open
+      icon_pack: fas
+      name: External User
+    - icon: book_open
+      icon_pack: fas
+      name: Internal User
   - icon: question
     icon_pack: fas
     name: Knowledge Base
