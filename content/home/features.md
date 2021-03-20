@@ -9,14 +9,14 @@ feature:
     icon_pack: fas
     name: Project Documentation
     description: For users
-    - icon: boxes
-      icon_pack: fas
-      name: External User
-      description: For External Users
-    - icon: book-tissue
-      icon_pack: fas
-      name: Internal User
-      description: For Internal Users
+      - icon: boxes
+        icon_pack: fas
+        name: External User
+        description: For External Users
+      - icon: book-tissue
+        icon_pack: fas
+        name: Internal User
+        description: For Internal Users
   - icon: question
     icon_pack: fas
     name: Knowledge Base
