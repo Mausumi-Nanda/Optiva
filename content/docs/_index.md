@@ -1,7 +1,7 @@
 ---
-title: Docs
+title: Optiva Knowledge Base
 type: book  # Do not modify.
-toc: false
+toc: true
 ---
 
-Welcome to the _book_ template!
+Welcome to the _Optiva_Knowledge_Base!
