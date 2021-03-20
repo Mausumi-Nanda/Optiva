@@ -9,10 +9,10 @@ feature:
     icon_pack: fas
     name: Project Documentation
     description: For users
-    - icon: book-open
+    - icon: book-user
       icon_pack: fas
       name: External User
-    - icon: book-open
+    - icon: book-reader
       icon_pack: fas
       name: Internal User
   - icon: question
