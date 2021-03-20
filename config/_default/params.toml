@@ -186,8 +186,8 @@ plugins_js  = []
 ############################
 [cms]
   branch = "main"
-  local_backend = false
-
+  local_backend = true
+  publish_mode = "editorial_workflow"
 ############################
 ## Icon Pack Extensions
 ############################
