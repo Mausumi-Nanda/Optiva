@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: GOLD Product Documentation
+linktitle: GOLD - Product Documentation
 summary: GOLD CCB Product Line.
 weight: 1
 icon: book
