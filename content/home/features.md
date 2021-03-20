@@ -12,7 +12,7 @@ feature:
     - icon: book-open
       icon_pack: fas
       name: External User
-    - icon: book_open
+    - icon: book-open
       icon_pack: fas
       name: Internal User
   - icon: question
