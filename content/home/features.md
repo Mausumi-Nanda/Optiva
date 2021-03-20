@@ -9,11 +9,11 @@ feature:
     icon_pack: fas
     name: Project Documentation
     description: For users
-    - icon: book-user
+    - icon: boxes
       icon_pack: fas
       name: External User
       description: For External Users
-    - icon: book-reader
+    - icon: book-tissue
       icon_pack: fas
       name: Internal User
       description: For Internal Users
