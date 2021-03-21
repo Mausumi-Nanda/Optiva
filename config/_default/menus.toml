@@ -7,7 +7,7 @@
 name = "Documentation"
 url = "docs/"
 weight = 10
-name = "Demo"
-url = "about/"
-weight = 10
+-name = "Demo"
+ url = "#about"
+ weight = 20
   
