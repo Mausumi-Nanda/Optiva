@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: portfolio
 headless: true
 weight: 10
 title: Optiva Knowledge Sharing
