@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Book Template
+title: Optiva Knowledge Sharing
 hero_media: book.svg
 design:
   background:
