@@ -7,19 +7,19 @@
   name = "Documentation"
   url = "docs/"
   weight = 10
-  -name = "Demo"
+  - name = "Demo"
   url = '#about'
   weight = 20
-  -name = "Posts"
+  - name = "Posts"
   url= '#posts'
   weight = 30
-  -name = "Talks"
+  - name = "Talks"
   url = '#talks'
   weight = 40
-  -name = "Publications"
+  - name = "Publications"
   url = '#featured'
   weight = 50
-  -name = "Contact"
+  - name = "Contact"
   url = '#contact'
   weight = 60
   
