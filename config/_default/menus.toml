@@ -7,7 +7,5 @@
 name = "Documentation"
 url = "docs/"
 weight = 10
-name = "Demo"
-url = "demo/"
-weight = 20
+
   
