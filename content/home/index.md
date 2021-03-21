@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: "wowchemycms"
+type: wowchemycms
 outputs: 
         -wowchemycms_config
         -HTML
