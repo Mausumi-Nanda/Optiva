@@ -17,23 +17,6 @@ baseurl = "https://loving-hodgkin-4608b0.netlify.app/"
 copyright = ""
 
 
-############################
-## LANGUAGE
-############################
-
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
-
-############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
     
 ############################
 ## Advanced options below ##
@@ -58,9 +41,11 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
 [permalinks]
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
+  event: '/talk/:slug/'
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
+  publication_types: '/publication-type/:slug/'
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
