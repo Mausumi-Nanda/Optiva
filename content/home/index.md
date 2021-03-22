@@ -4,6 +4,9 @@ type: wowchemycms
 outputs: 
         - wowchemycms_config
         - HTML
+
+---
+---
         - name: Demo
           url: '#about'
           weight: 20
