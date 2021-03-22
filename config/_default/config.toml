@@ -41,11 +41,11 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
 [permalinks]
   # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
-  event: '/talk/:slug/'
+  
   authors = "/author/:slug/"
   tags = "/tag/:slug/"
   categories = "/category/:slug/"
-  publication_types: '/publication-type/:slug/'
+  
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
