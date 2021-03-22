@@ -7,7 +7,7 @@ headless: true
 
 ---
 ---
-[[main]]
+
         - name: Demo
           url: '#about'
           weight: 20
